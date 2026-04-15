@@ -13,8 +13,8 @@ lógico :https://app.brmodeloweb.com/#!/publicview/69dfdd01e7f0a96088a4635a
 conceitual : https://app.brmodeloweb.com/#!/publicview/69dfdcf8e7f0a96088a46345
 <br/>
 <br/>
-*Modelo de banco : Escola*
+*Modelo de banco : SteamEtec*
 <br/>
-lógico :https://app.brmodeloweb.com/#!/publicview/69dfdd01e7f0a96088a4635a
+lógico :https://app.brmodeloweb.com/#!/publicview/69dfdec5e7f0a96088a46439
 <br/>
-conceitual : https://app.brmodeloweb.com/#!/publicview/69dfdcf8e7f0a96088a46345
+conceitual : https://app.brmodeloweb.com/#!/publicview/69dfdeeae7f0a96088a46463
